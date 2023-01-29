@@ -1,5 +1,7 @@
 # Weather analysis tool
 
+Weather output tool using mateo and geocode web APIs
+
 The project contains the file apiquestion.py which contains the python code - backend logic + frontend Command Line user input handling + Textual User interface (CLI) 
 ApiquestionUnitTests.py contains a set of unit tests for the functions of apiquestion.py 
 the word file contains example output based on user input 
