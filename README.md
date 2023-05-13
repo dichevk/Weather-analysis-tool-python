@@ -1,6 +1,6 @@
 # Weather analysis tool
 
-Weather analysis tool using mateo and geocode web weather APIs
+Weather analysis tool in Python using mateo and geocode web weather APIs
 
 The project contains the file apiquestion.py which contains the python code - backend logic + frontend Command Line user input handling + Textual User interface (CLI) 
 ApiquestionUnitTests.py contains a set of unit tests for the functions of apiquestion.py 
